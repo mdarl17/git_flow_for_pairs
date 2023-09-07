@@ -1,2 +1,2 @@
 # Git flow for pairs
-- Changes to first line of file
+- Changes first line of file a second time
